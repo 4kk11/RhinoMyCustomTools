@@ -1,0 +1,9 @@
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\bin\Debug\net48\CopyToPoints.rhp
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\bin\Debug\net48\CopyToPoints.pdb
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\obj\Debug\net48\CopyToPoints.AssemblyInfoInputs.cache
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\obj\Debug\net48\CopyToPoints.AssemblyInfo.cs
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\obj\Debug\net48\CopyToPoints.csproj.CoreCompileInputs.cache
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\obj\Debug\net48\CopyToPoints.rhp
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\obj\Debug\net48\CopyToPoints.pdb
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\obj\Debug\net48\CopyToPoints.csproj.AssemblyReference.cache
+D:\home\C#_Tutorial\Rhino_plugin\CopyToPoints\CopyToPoints\obj\Debug\net48\CopyToPoints.GeneratedMSBuildEditorConfig.editorconfig

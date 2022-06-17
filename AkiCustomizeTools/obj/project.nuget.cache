@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0cfz/BynxYoQ3akf3IfE4/ST+MuwvDy51SRA6PKrwW5MQuS0gMUESpg27tL8uu9VnPFzE9MV4UhKC85eyqgxA==",
+  "success": true,
+  "projectFilePath": "D:\\home\\C#_Tutorial\\Rhino_plugin\\AkiCustomizeTools\\AkiCustomizeTools\\AkiCustomizeTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akiak\\.nuget\\packages\\rhinocommon\\7.4.21078.1001\\rhinocommon.7.4.21078.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
