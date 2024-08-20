@@ -8,7 +8,7 @@ using Rhino.Input;
 using Rhino.Input.Custom;
 using Rhino.DocObjects;
 
-namespace AkiCustomizeTools
+namespace MyCustomTools
 {
 	public class SetPointOnBlockBaseCommand : Command
 	{

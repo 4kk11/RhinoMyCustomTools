@@ -8,7 +8,7 @@ using Rhino.Input.Custom;
 using Rhino.DocObjects;
 using System.Linq;
 
-namespace AkiCustomizeTools
+namespace MyCustomTools
 {
 	public class ChangeBlockBasePtCommand : Command
 	{

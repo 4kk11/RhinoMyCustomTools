@@ -9,7 +9,7 @@ using Rhino.DocObjects;
 using System.Linq;
 
 
-namespace AkiCustomizeTools
+namespace MyCustomTools
 {
 	public class MatchBlockLayerCommand : Command
 	{

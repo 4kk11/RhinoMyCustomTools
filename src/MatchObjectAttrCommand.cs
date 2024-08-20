@@ -8,7 +8,7 @@ using Rhino.Input;
 using System.Linq;
 
 
-namespace AkiCustomizeTools
+namespace MyCustomTools
 {
 	public class MatchObjectAttrCommand : Command
 	{

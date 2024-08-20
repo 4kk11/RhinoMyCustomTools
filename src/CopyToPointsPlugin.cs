@@ -1,7 +1,7 @@
 ﻿using System;
 using Rhino;
 
-namespace AkiCustomizeTools
+namespace MyCustomTools
 {
 	///<summary>
 	/// <para>Every RhinoCommon .rhp assembly must have one and only one PlugIn-derived
