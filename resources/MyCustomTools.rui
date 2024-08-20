@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RhinoUI major_ver="5" minor_ver="0" guid="2a0ece75-11fe-4276-8dd2-39d561dcd396" localize="False" default_language_id="1033" dpi_scale="150">
+  <tool_bar_groups />
+  <tool_bars>
+    <tool_bar guid="b4409ded-d287-4223-a7cd-9d4b578e7d81">
+      <text>
+        <locale_1041>MyCustomTools</locale_1041>
+      </text>
+      <tool_bar_item guid="1948b0a4-6dd4-4a44-a28d-5003a65f6a4b">
+        <left_macro_id>b11eb157-9d27-4fa4-b87d-b995bc197e14</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="6816a380-5516-4987-b586-4b73dc37d3bd">
+        <left_macro_id>58fb8d9a-b5a5-4f0e-bf64-68bba2709ea7</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="b10484fd-ae52-460e-9a21-3131e10e2068">
+        <left_macro_id>84a24af7-f7c0-4dba-b41d-e529c9b2e716</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="cb189f02-7f77-4d0d-80af-5574387f471b">
+        <left_macro_id>2791d516-0e8a-43ef-84fe-72c73a881f12</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="2095df5c-2000-4c63-aaae-08d6a486092e">
+        <left_macro_id>03b8cd64-3269-4a0b-84ac-2ccc56013d86</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="4e8b9a2e-c000-4dda-8c3b-4ea9fbedd54c">
+        <left_macro_id>f9d819f9-9463-42a3-bd78-67cd38e32179</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="54180651-2229-4d25-a72c-56cc3acbde63">
+        <left_macro_id>d83d0693-b8c9-4fd4-bfff-dfc76d9f2634</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="284d458b-78eb-4220-946d-6ff2903652b3">
+        <left_macro_id>3d6c50b5-738f-4055-8325-64fd999f0d03</left_macro_id>
+      </tool_bar_item>
+      <tool_bar_item guid="2c1c917c-2eed-4c41-9248-9904f83920ce">
+        <left_macro_id>db028420-a6e3-459a-83f7-b786925cefcd</left_macro_id>
+      </tool_bar_item>
+    </tool_bar>
+  </tool_bars>
+  <macros>
+    <macro_item guid="3d6c50b5-738f-4055-8325-64fd999f0d03" bitmap_id="94225aaa-9f08-4579-b07d-f94fb248fa33">
+      <text>
+        <locale_1041>ResetBlockTransform</locale_1041>
+      </text>
+      <script>!ResetBlockTransform</script>
+    </macro_item>
+    <macro_item guid="2791d516-0e8a-43ef-84fe-72c73a881f12" bitmap_id="803a3358-2e79-4efa-aa26-2ec9d124f4d4">
+      <text>
+        <locale_1041>InvisibleLayerFromObject</locale_1041>
+      </text>
+      <script>!InvisibleLayerFromObject</script>
+    </macro_item>
+    <macro_item guid="58fb8d9a-b5a5-4f0e-bf64-68bba2709ea7" bitmap_id="52db0501-cbc0-4e23-bceb-1d060d47ae9a">
+      <text>
+        <locale_1041>CopyBlockInstance</locale_1041>
+      </text>
+      <script>!CopyBlockInstance</script>
+    </macro_item>
+    <macro_item guid="d83d0693-b8c9-4fd4-bfff-dfc76d9f2634" bitmap_id="75dfe472-6e80-4b79-953f-ed958fe5fef6">
+      <text>
+        <locale_1041>OrientBasedBlock</locale_1041>
+      </text>
+      <script>!OrientBasedBlock</script>
+    </macro_item>
+    <macro_item guid="84a24af7-f7c0-4dba-b41d-e529c9b2e716" bitmap_id="a16fcc79-f5c3-4049-a94f-3a167503425f">
+      <text>
+        <locale_1041>CopyToPoints</locale_1041>
+      </text>
+      <script>!CopyToPoints</script>
+    </macro_item>
+    <macro_item guid="db028420-a6e3-459a-83f7-b786925cefcd" bitmap_id="85d7359e-731b-487b-b535-f99c19604ed2">
+      <text>
+        <locale_1041>SetPointOnBlockBase</locale_1041>
+      </text>
+      <script>!SetPointOnBlockBase</script>
+    </macro_item>
+    <macro_item guid="b11eb157-9d27-4fa4-b87d-b995bc197e14" bitmap_id="421168e8-367e-41de-8469-3499fcd5d6a7">
+      <text>
+        <locale_1041>ChangeBlockBasePt</locale_1041>
+      </text>
+      <script>!ChangeBlockBasePt</script>
+    </macro_item>
+    <macro_item guid="f9d819f9-9463-42a3-bd78-67cd38e32179" bitmap_id="ac85b411-06ba-4b4a-8727-62ea739af48b">
+      <text>
+        <locale_1041>MatchObjectAttributes</locale_1041>
+      </text>
+      <script>!MatchObjectAttributes</script>
+    </macro_item>
+    <macro_item guid="03b8cd64-3269-4a0b-84ac-2ccc56013d86" bitmap_id="bda0bb24-ef5e-4585-966d-0bc971b6ffab">
+      <text>
+        <locale_1041>MatchBlockLayer</locale_1041>
+      </text>
+      <script>!MatchBlockLayer0</script>
+    </macro_item>
+  </macros>
+  <icons>
+    <icon guid="94225aaa-9f08-4579-b07d-f94fb248fa33" name="cbdf9535-9bd3-44d4-96d7-2f5cc7cca554.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#FF7F27" stroke-opacity="1" fill="#FF7F27" fill-opacity="1" x="0.5" y="0" width="54" height="57.5"/>
+</svg></light>
+    </icon>
+    <icon guid="a16fcc79-f5c3-4049-a94f-3a167503425f" name="2822d92b-30e2-44e0-9027-e90251a97a21.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#B97A57" stroke-opacity="1" fill="#B97A57" fill-opacity="1" x="0" y="0.5" width="56.5" height="59.5"/>
+</svg></light>
+    </icon>
+    <icon guid="75dfe472-6e80-4b79-953f-ed958fe5fef6" name="bb25c24a-d5b4-4cfd-ad9a-763c42c8e472.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#FFC90E" stroke-opacity="1" fill="#FFC90E" fill-opacity="1" x="0" y="0" width="52" height="60"/>
+</svg></light>
+    </icon>
+    <icon guid="85d7359e-731b-487b-b535-f99c19604ed2" name="5a4584d4-c2dc-41bf-9d2d-c6b11093b255.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#EFE4B0" stroke-opacity="1" fill="#EFE4B0" fill-opacity="1" x="0" y="0" width="51" height="56.5"/>
+</svg></light>
+    </icon>
+    <icon guid="421168e8-367e-41de-8469-3499fcd5d6a7" name="1c4c06cb-55d6-4568-8ee2-cf41397e7d07.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><line  stroke-width="2" stroke="#000000" stroke-opacity="1" fill="#C3C3C3" fill-opacity="1" stroke-linecap="butt" x1="0" y1="0.5" x2="34.5" y2="38.5"/>
+<rect  stroke-width="2" stroke="#000000" stroke-opacity="1" fill="#C3C3C3" fill-opacity="1" x="0.5" y="0.5" width="47" height="47"/>
+<rect  stroke-width="2" stroke="#C3C3C3" stroke-opacity="1" fill="#C3C3C3" fill-opacity="1" x="0" y="0" width="52.5" height="53.5"/>
+</svg></light>
+      <dark><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><line  stroke-width="2" stroke="#000000" stroke-opacity="1" fill="#C3C3C3" fill-opacity="1" stroke-linecap="butt" x1="0" y1="0.5" x2="34.5" y2="38.5"/>
+<rect  stroke-width="2" stroke="#000000" stroke-opacity="1" fill="#C3C3C3" fill-opacity="1" x="0.5" y="0.5" width="47" height="47"/>
+<rect  stroke-width="2" stroke="#C3C3C3" stroke-opacity="1" fill="#C3C3C3" fill-opacity="1" x="0" y="0" width="52.5" height="53.5"/>
+</svg></dark>
+    </icon>
+    <icon guid="52db0501-cbc0-4e23-bceb-1d060d47ae9a" name="d3b16a7d-7d03-4454-9d90-b8ecf93d550c.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#7F7F7F" stroke-opacity="1" fill="#7F7F7F" fill-opacity="1" x="0" y="0" width="50" height="53"/>
+</svg></light>
+      <dark><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#7F7F7F" stroke-opacity="1" fill="#7F7F7F" fill-opacity="1" x="0" y="0" width="50" height="53"/>
+</svg></dark>
+    </icon>
+    <icon guid="803a3358-2e79-4efa-aa26-2ec9d124f4d4" name="b6409b1f-7d99-47e2-981f-f86327209543.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#880015" stroke-opacity="1" fill="#880015" fill-opacity="1" x="0" y="0" width="51" height="53.5"/>
+</svg></light>
+    </icon>
+    <icon guid="bda0bb24-ef5e-4585-966d-0bc971b6ffab" name="8728620e-9f5c-4ced-a10c-45b544a451f3.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#FFAEC9" stroke-opacity="1" fill="#FFAEC9" fill-opacity="1" x="0" y="0" width="52" height="58.5"/>
+</svg></light>
+    </icon>
+    <icon guid="ac85b411-06ba-4b4a-8727-62ea739af48b" name="a9e18db8-7e31-4228-9ec2-2c88607cf5db.svg">
+      <light><svg version="1.1" width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><!--Rhino generated SVG--><rect  stroke-width="2" stroke="#ED1C24" stroke-opacity="1" fill="#ED1C24" fill-opacity="1" x="0" y="0" width="53" height="53"/>
+</svg></light>
+    </icon>
+  </icons>
+  <bitmaps>
+    <small_bitmap item_width="0" item_height="0" />
+    <normal_bitmap item_width="0" item_height="0" />
+    <large_bitmap item_width="0" item_height="0" />
+  </bitmaps>
+  <scripts />
+</RhinoUI>

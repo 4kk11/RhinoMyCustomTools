@@ -14,7 +14,7 @@ dotnet build MyCustomTools.csproj -c Release -o .\bin\Package
 
 :: Copy
 xcopy /y /i ".\Yak\manifest.yml" ".\bin\Package"
-xcopy /y /i ".\resources\MyCustomTools.rhc" ".\bin\Package"
+xcopy /y /i ".\resources\MyCustomTools.rui" ".\bin\Package"
 
 :: Packaging
 cd .\bin\Package

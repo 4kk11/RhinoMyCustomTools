@@ -1,6 +1,6 @@
 ---
 name: MyCustomTools
-version: 0.0.3
+version: 0.0.5
 authors:
 - 4kk11
 description: my custom rhino command.
