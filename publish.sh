@@ -15,6 +15,7 @@ dotnet build -c Release -o ./bin/Package
 
 # コピー
 cp -r ./Yak/manifest.yml ./bin/Package
+cp -r ./resources/MyCustomTools.rhc ./bin/Package
 
 # パッケージング
 cd ./bin/Package
