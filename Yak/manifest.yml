@@ -1,0 +1,9 @@
+---
+name: MyCustomTools
+version: 0.0.2
+authors:
+- 4kk11
+description: my custom rhino command.
+url: https://github.com/4kk11/RhinoMyCustomTools
+keywords:
+ - rhino
