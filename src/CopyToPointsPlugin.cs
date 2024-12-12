@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 using Rhino;
 
+[assembly: Guid("86384BE0-B74E-4E61-89A9-D44EB2355D68")]
 namespace MyCustomTools
 {
 	///<summary>
